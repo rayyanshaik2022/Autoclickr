@@ -1,6 +1,6 @@
 A simple autoclicker for python3
 This program uses libraries: pyautogui, keyboard and time
-Created by PurpleTurkeys
+Created by Rayyan Shaik
 
 -------------------------------------------------------------------------
 
